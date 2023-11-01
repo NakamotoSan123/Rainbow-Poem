@@ -5,6 +5,9 @@ Pink
 Orange
 Blue
 Green
+Earth
+Indigo
+Recycle trash
 Yellow
 Red
 
